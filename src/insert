@@ -1,0 +1,15 @@
+INSERT INTO postswork(username,login,post) VALUES (
+  'andrey','andry','hi saega'
+);
+INSERT INTO postswork(username,login,post) VALUES (
+  'Katy','cat','hi saega'
+);
+INSERT INTO postswork(username,login,post) VALUES (
+  'Tim','tim','hi all'
+);
+INSERT INTO postswork(username,login,post) VALUES (
+  'Коля','kikolay','Привет'
+);
+INSERT INTO postswork(username,login,post) VALUES (
+  'Сергей','saega','Привет Katy'
+);
